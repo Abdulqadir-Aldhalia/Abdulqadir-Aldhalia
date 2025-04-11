@@ -1,42 +1,99 @@
 # Hi there, I'm Abdulqadir Aldhalia 👋
 
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/Abdulqadir-Aldhalia) 
-## About Me
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/Abdulqadir-Aldhalia)  
 
-I'm a Computer Science Graduate from the University of Benghazi, passionate about building scalable systems and automating complex workflows using **Java, Go, Linux, Microservices, Docker, and Cloud technologies**. My goal is to leverage my technical skills to drive innovation in software development.
+## 📊 GitHub Stats
 
-* 🌍 Based in: Benghazi, Libya
-* 📧 Contact me: Abdulqadir.Aldhalia@hotmail.com.
-* 🏆 **Key Achievements:** Regional Champion at ICPC & Led team to 1st Place at the 2024 Libyan Robotics Championship.
-* 🌱 **Currently Interested In:** AI & Automation, Robotics Innovation (ROS-based systems), Scalable Distributed Systems, Algorithms & Optimization, Linux & Open Source, Quantum Computing & Quantum AI research.
+⚠️ _Note: I worked offline for 2 years building production-grade systems. Most of my repositories were uploaded recently. See my showcase projects above._
+
+![Abdulqadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulqadir-Aldhalia&show_icons=true&theme=radical)
+
+---
+
+🚀 **Passionate builder of systems that solve real-world problems.**
+
+Hi, I’m Abdulqadir—a Computer Science graduate who spent the last two years crafting a secure, modular, and offline-first academic platform called **Universe System**. Whether it’s embedded robotics, distributed backend systems, or cloud-native infrastructure, I build with purpose and precision.
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: Abdulqadir.Aldhalia@hotmail.com  
+- 🔗 [GitLab](https://gitlab.com/Abdulqadir-Aldhalia)  
+- 🌍 Location: Benghazi, Libya  
+
+---
 
 ## 🛠️ Technical Skills
 
-* **Programming Languages:** Java, C, C++, Python, Go, PHP, SQL, JavaScript, Rust.
-* **Frameworks & Tools:** Spring Boot, Flask, Laravel, RabbitMQ, Docker, AWS, React, JavaFX, Flutter. 
-* **Databases:** PostgreSQL, MySQL, SQLite. 
-* **DevOps & Embedded:** Git, GitHub, GitLab, Maven, Gradle, Linux, Embedded Rust, ESP32, REV, RoboRio. 
-* **Other:** Software Architecture (Microservices, C4 Model), OOP, Reactive Programming, Adobe Suite, Problem Solving, Critical Thinking. 
+**Languages:** Java, C, C++, Python, Go, PHP, SQL, JavaScript, Rust  
+**Frameworks & Tools:** Spring Boot, Flask, Laravel, RabbitMQ, Docker, AWS, React, JavaFX, Flutter  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**DevOps & Embedded:** Git, GitHub, GitLab, Maven, Gradle, Linux, Embedded Rust, ESP32, REV, RoboRio  
+**Other:** Microservices Architecture (C4 Model), OOP, Reactive Programming, Fast Typing (80+ WPM), Adobe Suite, Critical Thinking, Problem Solving  
 
-## 🚀 Key Projects Highlights
+---
 
-* **Academic Automation Platform (Senior Thesis):** Designed and implemented a microservices-based platform (12 services) for managing academic processes (course enrollment, GPA calculation, notifications, online coding environments), enabling real-time analytics and reducing administrative burden. *(University of Benghazi)*
-* **Restaurant Management System (Internship Project):** Developed RESTful APIs in Go and embedded firmware in Rust for a real-time order/reservation system, synchronizing across kiosks, apps, and kitchens. Designed an admin dashboard enhancing operational efficiency. *(Sadeem Tech)*
-* **Cross-Platform Vehicle Management System:** Engineered a system using JavaFX, CSS, and SQLite for vehicle tracking and financial management, automating record-keeping and reducing manual reporting time by 40%.
-* **System-Level Tools & Cryptography (CS50x):** Created a File Recovery Tool (C), Image Filtering Library (C with SIMD), and a Playfair Cipher CLI tool. *(Harvard University)*
+## 🚀 Key Project Highlights
 
-## ✨ Experience & Leadership
+### 🔒 [Universe System (Closed Source | Academic Platform)](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)  
+🧠 *Built over 2 years as a capstone thesis—this is my most complex and complete project to date.*
 
-* **Full-Stack & Embedded Systems Intern** @ Sadeem Tech (Recognized as "Top Intern"). 
-* **Software Engineer & Trainer** @ Junior Enterprise (UOB) - Led workshops, developed educational tools.
-* **Team Lead & Mentor** @ VUE Robotics Team (1st Place, 2024 Libyan Robotics Championship). 
-* **Programming Team Leader** @ BETA Robotics Team (FIRST Robotics Competition). 
-* **DevOps Team Leader** @ Robotics Automation Club (UOB) - Oversaw deployment/testing for a Laravel project. 
+A secure, offline-first academic platform for the University of Benghazi built with modern microservices architecture.  
+It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with a unified ecosystem hosted on **local Libyan servers**.
+
+- 🔐 **Security**: JWT Auth, RBAC, Redis blacklist, and air-gapped encrypted research storage
+- 📈 **Scalability**: Dockerized services, Eureka service registry, PostgreSQL optimization
+- 📚 **Automation**: GPA calculation engine, academic calendar, time conflict detection
+- 🧩 **Architecture**: 12 microservices, API gateway, asynchronous messaging via RabbitMQ
+- 🌐 **UI/UX**: React dashboard for college admins, students, and teachers, with role-based views
+- 📡 **Offline LMS**: First of its kind in Libya—enables access in low-connectivity areas
+- 🇱🇾 **Data Sovereignty**: Fully localized with compliance to Libya's National Education Strategy 2030
+
+📖 [Read the Official PDF Summary](#) | 🎥 [Watch the Demo](#) *(Coming Soon)*
+
+
+---
+
+- **Restaurant Management System (Internship Project)**  
+  Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. React dashboard for real-time analytics. *(Sadeem Tech)*
+
+### 🚗 Vehicle Management System (Closed Source | Desktop App)  
+A JavaFX-based vehicle tracking and financial record system, designed to streamline operations for internal use.  
+- Features: Real-time fleet stats, financial calculations, automated reporting, local data persistence  
+- Technologies: JavaFX, SQLite, CSS  
+- 🗂️ [Demo Screenshots / Docs (Coming Soon)]() | 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase)
+
+
+- **System-Level Tools & Cryptography (CS50x, Harvard)**  
+  File recovery tools, SIMD-optimized image filtering, and a Playfair Cipher CLI in C.
+
+---
+
+## 🧠 Experience & Leadership
+
+- **Full-Stack & Embedded Systems Intern** @ Sadeem Tech *(Top Intern Award)*  
+- **Software Engineer & Trainer** @ Junior Enterprise UOB — Delivered 10+ workshops on microservices and DevOps  
+- **Team Lead & Mentor** @ VUE Robotics — 1st Place, 2024 Libyan Robotics Championship  
+- **Programming Team Leader** @ BETA Robotics Team (FRC)  
+- **DevOps Team Lead** @ Robotics Automation Club (UOB)  
+
+---
 
 ## 🏆 Awards & Recognition
 
-* 1st Place, 2024 National Open Robotics Championship (VUE Robotics Team). 
-* 4th Place, 2024 ICPC Libyan Collegiate Programming Contest.
-* ACPC Qualifier, Arab Collegiate Programming Contest, Nov 2024.
-* HarvardX CS50: Introduction to Computer Science Certification.
-* Udemy: Master Spring Boot with Docker & AWS Certification.
+- 🥇 1st Place, 2024 National Open Robotics Championship  
+- 🏅 4th Place, 2024 ICPC Libyan Collegiate Programming Contest  
+- ✅ ACPC Qualifier, Arab Collegiate Programming Contest (Nov 2024)  
+- 🎓 HarvardX CS50 Certification  
+- ☁️ Udemy Spring Boot + Docker + AWS Certified  
+
+---
+
+## 🔭 Interests
+
+Quantum Computing & AI Research | Scalable Distributed Systems | Robotics (ROS) | Open Source | Algorithms | Linux & DevOps | Competitive Programming
+
+---
+
+_Thanks for visiting! Let's build something awesome together._
