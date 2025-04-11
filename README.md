@@ -52,10 +52,7 @@ It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with 
 
 📖 [Read the Official PDF Summary](#) | 🎥 [Watch the Demo](#) *(Coming Soon)*
 
-
----
-
-- **Restaurant Management System (Internship Project)**  
+### Restaurant Management System (Internship Project)
   Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. React dashboard for real-time analytics. *(Sadeem Tech)*
 
 ### 🚗 Vehicle Management System (Closed Source | Desktop App)  
@@ -65,7 +62,7 @@ A JavaFX-based vehicle tracking and financial record system, designed to streaml
 - 🗂️ [Demo Screenshots / Docs (Coming Soon)]() | 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase)
 
 
-- **System-Level Tools & Cryptography (CS50x, Harvard)**  
+### System-Level Tools & Cryptography (CS50x, Harvard)
   File recovery tools, SIMD-optimized image filtering, and a Playfair Cipher CLI in C.
 
 ---
