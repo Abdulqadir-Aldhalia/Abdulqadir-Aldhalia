@@ -50,7 +50,7 @@ It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with 
 - 📡 **Offline LMS**: First of its kind in Libya—enables access in low-connectivity areas
 - 🇱🇾 **Data Sovereignty**: Fully localized with compliance to Libya's National Education Strategy 2030
 
-📖 [Read the Official PDF Summary](#) | 🎥 [Watch the Demo](#) *(Coming Soon)*
+📖  📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)
 
 ### Restaurant Management System (Internship Project)
   Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. React dashboard for real-time analytics. *(Sadeem Tech)*
@@ -59,7 +59,7 @@ It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with 
 A JavaFX-based vehicle tracking and financial record system, designed to streamline operations for internal use.  
 - Features: Real-time fleet stats, financial calculations, automated reporting, local data persistence  
 - Technologies: JavaFX, SQLite, CSS  
-- 🗂️ [Demo Screenshots / Docs (Coming Soon)]() | 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase)
+- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase)
 
 
 ### System-Level Tools & Cryptography (CS50x, Harvard)
