@@ -6,7 +6,7 @@
 
 ⚠️ _Note: I worked offline for 2 years building production-grade systems. Most of my repositories were uploaded recently. See my showcase projects above._
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdulqadir-Aldhalia&theme=radical&include_all_commits=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdulqadir-Aldhalia&theme=dark)
 
 ---
 
