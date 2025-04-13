@@ -50,7 +50,7 @@ It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with 
 - 📡 **Offline LMS**: First of its kind in Libya—enables access in low-connectivity areas
 - 🇱🇾 **Data Sovereignty**: Fully localized with compliance to Libya's National Education Strategy 2030
 
-📖  📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)
+- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)
 
 ### Restaurant Management System (Internship Project)
   Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. React dashboard for real-time analytics. *(Sadeem Tech)*
