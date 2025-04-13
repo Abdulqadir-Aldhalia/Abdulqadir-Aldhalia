@@ -59,7 +59,7 @@ It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with 
 A JavaFX-based vehicle tracking and financial record system, designed to streamline operations for internal use.  
 - Features: Real-time fleet stats, financial calculations, automated reporting, local data persistence  
 - Technologies: JavaFX, SQLite, CSS  
-- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase)
+- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase) (comming soon)
 
 
 ### System-Level Tools & Cryptography (CS50x, Harvard)
