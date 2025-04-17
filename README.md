@@ -52,19 +52,22 @@ It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with 
 
 - 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)
 
-### Restaurant Management System (Internship Project)
+### [Restaurant Management System (Internship Project)](https://github.com/Abdulqadir-Aldhalia/Restaurant-Management-System)
   Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. React dashboard for real-time analytics. *(Sadeem Tech)*
+  
+  - 📖 [See Repo](https://github.com/Abdulqadir-Aldhalia/Restaurant-Management-System)
 
 ### 🚗 Vehicle Management System (Closed Source | Desktop App)  
 A JavaFX-based vehicle tracking and financial record system, designed to streamline operations for internal use.  
 - Features: Real-time fleet stats, financial calculations, automated reporting, local data persistence  
-- Technologies: JavaFX, SQLite, CSS  
+- Technologies: JavaFX, SQLite, CSS
+  
 - 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Vehicle-System-Showcase) (comming soon)
 
-
-### System-Level Tools & Cryptography (CS50x, Harvard)
+### [System-Level Tools & Cryptography (CS50x, Harvard)](https://github.com/Abdulqadir-Aldhalia/CS50x-Harvard-University-Solutions-2023)
   File recovery tools, SIMD-optimized image filtering, and a Playfair Cipher CLI in C.
-
+  
+  - 📖 [See Repo](https://github.com/Abdulqadir-Aldhalia/CS50x-Harvard-University-Solutions-2023)
 ---
 
 ## 🧠 Experience & Leadership
