@@ -39,7 +39,7 @@ Hi, I’m Abdulqadir—a Computer Science graduate who spent the last two years 
 ### 🔒 [Universe System (Closed Source | Academic Platform)](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)  
 🧠 *Built over 2 years as a capstone thesis—this is my most complex and complete project to date.*
 
-A secure, offline-first academic platform for the University of Benghazi built with modern microservices architecture.  
+A secure, offline-first academic platform for Universities and Academic institutions built with modern microservices architecture.  
 It replaces fragmented workflows (Google Classroom, WhatsApp, paper forms) with a unified ecosystem hosted on **local Libyan servers**.
 
 - 🔐 **Security**: JWT Auth, RBAC, Redis blacklist, and air-gapped encrypted research storage
