@@ -12,7 +12,7 @@
 
 🚀 **Passionate builder of systems that solve real-world problems.**
 
-Hi, I’m Abdulqadir—a Computer Science graduate who spent the last two years crafting a secure, modular, and offline-first academic platform called **Universe System**. Whether it’s embedded robotics, distributed backend systems, or cloud-native infrastructure, I build with purpose and precision.
+Hi, I’m Abdulqadir—a Computer Science graduate who spent the last two years crafting a secure, modular, and microservices academic platform called **Universe System**. Whether it’s embedded robotics, distributed backend systems, or cloud-native infrastructure, I build with purpose and precision.
 
 ---
 
