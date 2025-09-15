@@ -129,6 +129,16 @@ Completed and documented all problem sets and final projects for Harvard’s CS5
 
 ## 🧠 Experience & Leadership
 
+- **Head of Technical Office & Digital Transformation** @ Hespereds University  
+  - Led modernization of legacy systems, resolving long-standing operational bottlenecks.  
+  - Designed and implemented secure, scalable solutions aligned with institutional goals.  
+  - Coordinated with cross-functional teams to integrate technology into academic and administrative workflows.  
+
+- **Software Engineer Candidate (Delivery & Service Department)** @ Huawei Libya Branch *(Recruitment Paused)*  
+  - Successfully passed two technical interview rounds with positive engineering team feedback.  
+  - Evaluated for a role involving scalable software development, partner enablement, and cross-functional collaboration.  
+  - Recruitment paused due to political circumstances beyond control.  
+
 - **Full-Stack & Embedded Systems Intern** @ Sadeem Tech *(Top Intern Award)*  
 - **Software Engineer & Trainer** @ Junior Enterprise UOB — Delivered 10+ workshops on microservices and DevOps  
 - **Team Lead & Mentor** @ VUE Robotics — 1st Place, 2024 Libyan Robotics Championship  
