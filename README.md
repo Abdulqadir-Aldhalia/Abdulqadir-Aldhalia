@@ -40,47 +40,90 @@ Outside backend, I dive into **robotics firmware**, **DevOps pipelines**, and **
 
 ---
 
-## 🚀 Key Project Highlights
+## 🚀 Key Project Highlights (Problem → Solution → Impact)
 
 ### 🔒 [Universe System (Closed Source | Academic Platform)](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)  
-🧠 *Built over 2 years as a capstone thesis—this is my most complex and complete project to date.*
+🧠 *Built over 2 years as a capstone thesis — architecture fully implemented, with planned feature expansions.*
 
-> A secure, microservices-first academic platform replacing Google Classroom, WhatsApp, and paper-based workflows with a unified system hosted locally in Libya.  
-> 🧩 12 microservices | JWT Auth | PostgreSQL | React UI | Air-gapped storage
+**Problem:**  
+Universities relied on fragmented tools like Google Classroom, WhatsApp, and paper forms, creating inefficiency, security risks, and poor integration.
 
-- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)
+**Solution:**  
+Designed and implemented a secure, microservices-first academic platform with 12 independent services, JWT authentication, PostgreSQL, React UI, and air-gapped storage for data sovereignty.
+
+**Impact:**  
+- Unified academic and administrative workflows into a single platform.  
+- Reduced operational complexity and improved security posture.  
+- Created a scalable foundation for future feature expansion.
+
+📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/Universe-System-Showcase)
 
 ---
 
 ### 🚗 [SAYYAR Smart Vehicle Management System (Desktop App)](https://github.com/Abdulqadir-Aldhalia/SAYYAR-Showcase)  
-A full-featured vehicle tracking and business automation system using JavaFX, Hibernate, and SQLite.  
-Built to streamline operations and analytics for car businesses in Libya.
 
-- 💡 Real-time stats, maintenance tracking, vehicle scraping, and financial reports  
-- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/SAYYAR-Showcase)
+**Problem:**  
+Car businesses lacked a centralized system for tracking vehicles, managing finances, and monitoring operations.
+
+**Solution:**  
+Developed a JavaFX desktop application with MVVM architecture, Hibernate ORM, and SQLite database. Integrated real-time stats, maintenance tracking, vehicle scraping, and financial reporting.
+
+**Impact:**  
+- Improved operational oversight and reduced manual record-keeping.  
+- Increased data accuracy and decision-making speed.  
+- Delivered a visually appealing, user-friendly interface.
+
+📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/SAYYAR-Showcase)
 
 ---
 
 ### 🔐 [License Generator Server (JavaFX Licensing Platform)](https://github.com/Abdulqadir-Aldhalia/License-Server-Showcase)  
-A Spring Boot + Vaadin system to manage and verify license keys for desktop software (JavaFX integration ready).
 
-- 🔑 Generates & verifies time-based and lifetime licenses  
-- 🧠 JavaFX client integration, hardware binding, AES encryption, and offline tolerance  
-- 📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/License-Server-Showcase)
+**Problem:**  
+Commercial desktop applications were vulnerable to piracy and unauthorized use.
+
+**Solution:**  
+Built a secure license generation and validation server using Spring Boot and Vaadin, with JavaFX client integration, AES encryption, hardware binding, and offline tolerance.
+
+**Impact:**  
+- Protected intellectual property for commercial software.  
+- Enabled flexible licensing models.  
+- Reduced unauthorized usage and revenue loss.
+
+📖 [Showcase Repo](https://github.com/Abdulqadir-Aldhalia/License-Server-Showcase)
 
 ---
 
 ### 🍽️ [Restaurant Management System (Internship Project)](https://github.com/Abdulqadir-Aldhalia/Restaurant-Management-System)  
-Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. React dashboard for real-time analytics.
 
-- 📖 [See Repo](https://github.com/Abdulqadir-Aldhalia/Restaurant-Management-System)
+**Problem:**  
+Restaurants needed a unified system to handle orders, kitchen coordination, and analytics across multiple platforms.
+
+**Solution:**  
+Developed RESTful APIs in Go and embedded Rust firmware to synchronize orders across kiosks, apps, and kitchens. Built a React dashboard for real-time analytics.
+
+**Impact:**  
+- Streamlined order processing and reduced wait times.  
+- Provided real-time analytics for better operational decisions.  
+- Enabled cross-platform integration between mobile, web, and embedded devices.
+
+📖 [See Repo](https://github.com/Abdulqadir-Aldhalia/Restaurant-Management-System)
 
 ---
 
 ### </> [System-Level Tools & Cryptography (CS50x, Harvard)](https://github.com/Abdulqadir-Aldhalia/CS50x-Harvard-University-Solutions-2023)  
-File recovery tools, SIMD-optimized image filtering, and a Playfair Cipher CLI in C.
 
-- 📖 [See Repo](https://github.com/Abdulqadir-Aldhalia/CS50x-Harvard-University-Solutions-2023)
+**Problem:**  
+Needed to demonstrate mastery of computer science fundamentals for academic and professional credibility.
+
+**Solution:**  
+Completed and documented all problem sets and final projects for Harvard’s CS50x course, covering algorithms, C programming, data structures, and web development.
+
+**Impact:**  
+- Strengthened algorithmic thinking and low-level programming skills.  
+- Provided a public record of problem-solving ability and academic rigor.
+
+📖 [See Repo](https://github.com/Abdulqadir-Aldhalia/CS50x-Harvard-University-Solutions-2023)
 
 ---
 
